@@ -1,0 +1,5 @@
+{
+  "server" : "localhost",
+  "ports" : "27017",
+  "database": "video"
+}
